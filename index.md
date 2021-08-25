@@ -1,15 +1,11 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Kai Spencer
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Kai Spencer
+Digital Degree Apprentice (Software Development) NHS Digital
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
-
+kaispencer98@gmail.com
 
 ## Currently
 
@@ -27,27 +23,30 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`September 2017 - July 2018`
+__Newcastle University__
+Mechanical Engineering, First year study
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`September 2015 - July 2017`
+__Greenhead College__
+- Maths (C)
+- Physics (C)
+- Chemistry (C)
+- Biology AS (B)
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`September 2010 - July 2015`
+__Rastrick High School__
+- Music, ICT (A*)
+- Maths, English Language, Geography, Chemistry, Physics, Biology (A)
+- English Literature (B)
+- French, Religious Studies (C)
 
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+`2019`
+Duke of Edinburgh GOLD Award, presented ad St James' Palace
 
 
 
