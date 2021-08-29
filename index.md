@@ -14,6 +14,7 @@ kaispencer98@gmail.com
 __The Band of The Yorkshire Regiment - Tuba__
 
 Army Reserve Musician:
+
 \- Working towards Career Employment Qualification 3 (CEQ3) which includes: Musical ability; Sightreading; Marching Band Drill; Musical Theory; Leadership; Solo Ability; Aural; Scales. <br>
 \- Representing the Yorkshire Regiment performing at high profile engagements throughout the year, e.g. Unveiling of the D-Day Normandy Memorial, Tribute to Captain Sir Tom Moore (Virtual), Remembrance Sunday Parade. <br>
 \- Working towards Class C licence to drive >3.5 Tonne vehicles.
@@ -86,7 +87,7 @@ A member of volunteer staff for during the summer, running six, four day residen
 ### The Welcome Centre
 
 
-`2015 2017`
+`2015 - 2017`
 __Food Bank Assistant__
 
 Pick, Pack and sort meal parcels; Respond to phone queries and referrals; Meet and greet customers at Reception.
