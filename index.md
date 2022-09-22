@@ -3,7 +3,7 @@ layout: cv
 title: Kai Spencer
 ---
 # Kai Spencer
-Digital Degree Apprentice (Software Development) NHS Digital
+Software Developer NHS Digital
 
 kaispencer98@gmail.com
 ## Employment
@@ -51,6 +51,16 @@ Army Reserve Musician:<br>
 \- Working towards Class C licence to drive >3.5 Tonne vehicles.
 
 ### Freelance Software Development
+
+`Mar 2022 - Present`
+__Volume Payments Limited__
+
+As Head of frontend development, I have oversight of all UI development of an Open Banking payment solution with mobile and web versions using React and React Native.
+
+\- Lead a team of 4 developers, managing priorities, code quality, ways of working
+\- Hands on development with Yapily open banking API's
+\- Engage with clients delivering solution proposals, assisting with integration
+
 `Mar 2020 - Present`
 __E-Commerce Store Automation__
 
@@ -61,6 +71,7 @@ I developed a Print On Demand management Webapp and backend processing for www.s
 \- Tracking information received from FTP server triggers status emails to customer. <br>
 \- Reporting dashboards to track order timings across order state transitions, with discord alerts for timing breaches. <br>
 \- Gitlab for CI/CD, issue tracking, code versioning, release management.
+
 
 ### Deliveroo
 
