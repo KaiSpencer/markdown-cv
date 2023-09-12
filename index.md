@@ -2,88 +2,88 @@
 layout: cv
 title: Kai Spencer
 ---
+
 # Kai Spencer
-Software Developer NHS Digital
+
+Software Developer @NHS England
 
 kaispencer98@gmail.com
+
+[Linked In](https://www.linkedin.com/in/kai-spencer-85b495166/)
+
 ## Employment
 
-### NHS Digital
+### NHS England (Formerly NHS Digital)
 
 `Oct 2020 - Present`
-__Data Services Alliance - Data Processing Service Portal__
+**Data Services Alliance - Data Processing Service Portal**
 
-DPS Portal aims to provide a single, secure and intuitive portal for providers to submit data into NHS Digital. The portal consists of a simple file upload webapp with a backend that integrates with DPS Core for processing, derivations and reporting. 
+Full Stack Development of a modern Data Submission Portal, Cloud Native on AWS consisting of a React Frontend, Python Serverless Backend, and the following other technologies: <br>
+\- Typescript, Terraform, DynamoDB, SQS, SNS,
 
-Detailed below are some of my key contributions:<br>
-\- I proposed, instructed and implemented the conversion of a Angular.js webapp laden with tech debt to React. As a maintainer of the nhsuk-react-components library, I saw the benefit of migrating the existing application to not only ease development effort but also due to the pace the portal was originally developed, a complete rewrite would be the easiest way to remove the tech debt. <br>
-\- Lead a React101 session with the team, explaining key concepts, interactive demo to setup a React App and install nhsuk-react-components, with basic usage and maintenance explained. I then pair programmed with various team members to share knowledge implementing key features of the application.<br>
-\- Proposed React development using alternative tooling by default, allowing experimentation of alternatives that would aid the development workflow: e.g. Yarn in place of NPM; Cypress in place of Jest.<br>
-\- Implemented npm audit package vulnerability scanning into the build pipeline.<br>
-\- Implemented ESLint code linting, into the unit test runner.<br>
-\- Incorporated Automated Accessibility testing into the build pipeline. <br>
-\- Used Test Driven Development (TDD) to implement Python unittests using the builtin library unittest.
-\- Implemented the Cypress framework for Unit, Integration and automated E2E React testing.
+I was Personally responsible for implementing the following:<br>
+\- Lead the migration of the legacy Angular web application to React<br>
+\- Providing technical React 101 sessions to the team, and pair programming with team members to share knowledge<br>
+\- Implemented comprehensive automated UI testing with Cypress, Jest, React Testing Library<br>
+\- Implemented automated accessibility testing with Axe<br>
+\- Implemented static code analysis with ESLint
 
 <p style="text-align:center">------------------------------------------------------</p>
 
 `Sept 2019 - Oct 2020`
-__Digital transformation of Screening Technology - Cervical Screening Interim Solution__
+**Digital transformation of Screening Technology - Cervical Screening Interim Solution**
 
-The Cervical Screening Management System (CSMS)'s vision is to provide a clinically safe replacement to the National Health Application and Infrastructure Services (NHAIS), NHAIS is an on-prem service with servers in 84 locations soon to be decommissioned. The CSMS is a cloud native like for like replacement of this service. <br>
+Full Stack Development of a cloud native replacement of a legacy on-prem service, with a focus on using modern technologies:<br>
+\- ReactJS, Python, Terraform, AWS, Event Driven Architecture, TDD, BDD, Gitlab CI/CD
 
-Some of my specific contributions are as follows:<br>
-\- Scrum team member, I was one of the two initial developers starting in Sprint 1 of the project.<br>
-\- Planned and implemented the CI/CD workflow with Gitlab CI/CD, following the Github Flow branching strategy; pipelines make use of Terraform to provision discrete AWS environments based on the Git branch comprising of an instance of the full system architecture. This provides live-like environments on demand giving a shorter feedback loop in development in comparison to having to merge into a long living environment for full testing like the Reference environment. <br>
-\- Implemented security posture analysis tools such as Scoutsuite to the CI/CD<br>
-\- Added serverless lambda functions in situ with SQS to build out a data ingestion process to migrate 32,000,000 records to the new system from NHAIS<br>
-\- Enhanced application logging in the frontend and backend to Splunk, making use of unique identifiers to map data workflows throughout the system.
-\- Used Behaviour Driven Development (BDD) to implement feature tests using the Behave framework to test the integration points of the serverless architecture.
+I was Personally responsible for implementing the following:<br>
+\- Configured the initial CI/CD workflow with Gitlab CI/CD and Github Flow.<br>
+\- Created scripts to automate elastic environment provisioning with Terraform.<br>
+\- Implemented security posture analysis tools such as Scoutsuite to the CI/CD.<br>
 
-### British Army
+### British Army Reserve
 
 `Jan 2018 - Present`
-__The Band of The Yorkshire Regiment - Tuba__
-
-Army Reserve Musician:<br>
-\- Working towards Career Employment Qualification 3 (CEQ3) which includes: Musical ability; Sightreading; Marching Band Drill; Musical Theory; Leadership; Solo Ability; Aural; Scales. <br>
-\- Representing the Yorkshire Regiment performing at high profile engagements throughout the year, e.g. Unveiling of the D-Day Normandy Memorial, Tribute to Captain Sir Tom Moore (Virtual), Remembrance Sunday Parade. <br>
-\- Working towards Class C licence to drive >3.5 Tonne vehicles.
+**The Band of The Yorkshire Regiment - Tuba**
 
 ### Freelance Software Development
 
 `Mar 2022 - Present`
-__Volume Payments Limited__
+**Volume Payments Limited**
 
-As Head of frontend development, I have oversight of all UI development of an Open Banking payment solution with mobile and web versions using React and React Native.
+Developing Web and Mobile SDKs for a volume payments solution using React and React Native, building a Merchant Dashboard in React with NextJS.
 
-\- Lead a team of 4 developers, managing priorities, code quality, ways of working
-\- Hands on development with Yapily open banking API's
-\- Engage with clients delivering solution proposals, assisting with integration
+Technologies: React, React Native, NextJS, Typescript, AWS, npm, Github Actions
 
 `Mar 2020 - Present`
-__E-Commerce Store Automation__
+**E-Commerce Store Automation**
 
-I developed a Print On Demand management Webapp and backend processing for www.strumpmaskinen.se, providing an all in one automation and store management tool for the business. 
-
-\- Final designs once approved automatically transferred to supplier FTP server. <br>
-\- Event driven Serverless Architecture built on Google Cloud Platform, with Cloud functions, PubSub, Firebase Firestore NoSQL Database <br>
-\- Tracking information received from FTP server triggers status emails to customer. <br>
-\- Reporting dashboards to track order timings across order state transitions, with discord alerts for timing breaches. <br>
-\- Gitlab for CI/CD, issue tracking, code versioning, release management.
-
+I developed a Print On Demand management Webapp and backend processing for www.strumpmaskinen.se, providing an all in one automation and store management tool for the business. Built with React, Firebase, Google Cloud Platform
 
 ### Deliveroo
 
 `Jan 2018 - Aug 2019`
-__Self Employed - Deliveroo Cycle Courier__
+**Self Employed - Deliveroo Cycle Courier**
 
 Full time cyclist courier: making deliveries; liaise with restaurant staff; manage taxes as Sole Trader.
+
+## Open Source Development
+
+### NHSUK React Components
+
+`2019 - Present`
+**Maintainer**
+
+I am a maintainer of the [NHSUK React Components library](https://github.com/NHSDigital/nhsuk-react-components), a React implementation of the NHSUK Design System. I have contributed to the library since 2019, and became a maintainer in 2020.
+
+Technology: React, Storybook, Jest, React Testing Library, Github Actions, NPM
+
 ## Voluntary
+
 ### Kirklees Summer Play Camp
 
 `2015 - Present`
-__Camp Staff Group Leader__
+**Camp Staff Group Leader**
 
 A member of volunteer staff for during the summer, running six, four day residential camps for children ages 9-12.<br>
 \- Ensuring the children have a fun and enjoyable summer, whilst following risk assessments, health and safety, and safeguarding relating to young children.
@@ -93,25 +93,32 @@ A member of volunteer staff for during the summer, running six, four day residen
 ### The Welcome Centre
 
 `2015 - 2017`
-__Food Bank Assistant__
+**Food Bank Assistant**
 
 Pick, pack and sort meal parcels; Respond to phone queries and referrals; Meet and greet customers at Reception.
 
 ## Education
 
+`Sept 2019 - Sept 2023`
+**University of Roehampton (QA Degree Apprenticeship via NHS England)**
+
+- BSc (Hons) Digital and Technology Solutions (First Class [Graduation expected Jan 2024])
+
 `Sept 2017 - Jul 2018`
-__Newcastle University__
+**Newcastle University**
+
 - Mechanical Engineering, First year study
 
 `Sept 2015 - Jul 2017`
-__Greenhead College__
+**Greenhead College**
+
 - Maths, Physics, Chemistry (C)
 - Biology AS (B)
 
 `Sept 2010 - Jul 2015`
-__Rastrick High School__
+**Rastrick High School**
 
-- Music, ICT (A*)
+- Music, ICT (A\*)
 - Maths, English Language, Geography, Chemistry, Physics, Biology (A)
 - English Literature (B)
 - French, Religious Studies (C)
@@ -130,7 +137,7 @@ Duke of Edinburgh GOLD Award, presented at St James' Palace
 `2010 - 2014`
 Grade 1, 5, 6 Trinity Guildhall Tuba with Distinction
 
-Grade 1 - 5 ABRSM Piano   
+Grade 1 - 5 ABRSM Piano
 
 ## Other Interests
 
